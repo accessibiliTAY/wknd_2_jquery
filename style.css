@@ -1,0 +1,37 @@
+body {
+  background-color: #E0E0D7;
+}
+button{
+  background-color: #420532;
+  color: white;
+  border: none;
+  border-radius: 30%;
+  width: 80px;
+  height: 40px;
+  cursor: pointer;
+}
+#buttons {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#silentLambs {
+  display: flex;
+  display: none;
+  float: left;
+  width: 32%;
+  margin-right: 10px;
+}
+#huntWill {
+  display: flex;
+  display: none;
+  float: left;
+  width: 32%;
+  margin-right: 10px;
+}
+#buckUncle {
+  display: flex;
+  display: none;
+  float: left;
+  width: 32%;
+}
